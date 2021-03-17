@@ -1,2 +1,2 @@
-# GTPS_Broadcast
-Growtopia Private server Broadcast code
+# GTPS tutorial
+Free some code example
